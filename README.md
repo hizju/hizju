@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hithere👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello👋&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hizju)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hizju_velog](https://velog-readme-stats.vercel.app/api?name=hizju)](https://velog.io/@leeheeju/posts)
+[![hizju_velog](https://velog-readme-stats.vercel.app/api?name=leeheeju)](https://velog.io/@leeheeju/posts)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizju&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
